@@ -4,7 +4,7 @@
 #32 LETTERS MAX
 
 .data
-string_to_print: .string "YUSUF"
+string_to_print: .string "SCROLLING TEXT"
 
 LED_ON_COLOUR: .word 0xf6cc4c
 
