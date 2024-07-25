@@ -1,3 +1,5 @@
+#V1.1
+#improvements: Support for UTC Time Zone Adjustments
 .data:
     day_to_ms: .word 86400000
     hour_to_ms: .word 3600000
