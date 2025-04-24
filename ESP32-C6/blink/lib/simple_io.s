@@ -12,7 +12,6 @@
 .equ GPIO_ENABLE_W1TC_REG, 0x0028
 
 .section .text
-#PIN_MODE PIN, MODE sets the pin number either as output or input.
 
 .macro GPIO_MODE pin_num, pin_mode
     li t0, GPIO_MATRIX_BASE
@@ -28,7 +27,6 @@
     sw t1, GPIO_ENABLE_W1TC_REG(t0)
 3:
 .endm
-
 
 .macro WRITE_GPIO pin_num, logic_level
     li t0, GPIO_MATRIX_BASE
