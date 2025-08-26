@@ -25,7 +25,7 @@
 <!-- IMAGES
 [![Assembly Screenshot][product-screenshot]](https://github.com/yusufkenaroglu/Assembly-Projects) -->
 
-This repository contains a variety of **assembly language projects** in **RISC-V** .  
+This repository contains a variety of **assembly language projects** in **RISC-V**.  
 
 - **Simulation:** Programs that run in RIPES Simulator.
 - **MCU:** Programs that run on the Espressif ESP32-C6 microcontroller.
