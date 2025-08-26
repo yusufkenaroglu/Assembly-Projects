@@ -13,11 +13,11 @@
   <p align="center">
     A collection of RISC-V Assembly simulation projects.
     <br />
-    <a href="https://github.com/yusufkenaroglu/Ripes-String-Print"><strong>Ripes String Print»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/Ripes-String-Print"><strong>Explore String Print»</strong></a>
     <br />
-    <a href="https://github.com/yusufkenaroglu/Ripes-Draw-BMP"><strong>Ripes Draw BMP»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/Ripes-Draw-BMP"><strong>Explore Draw BMP»</strong></a>
     <br />
-    <a href="https://github.com/yusufkenaroglu/Ripes-Serial-Clock"><strong>Ripes Serial Clock»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/Ripes-Serial-Clock"><strong>Explore Serial Clock»</strong></a>
     <br />
   </p>
 </div>
