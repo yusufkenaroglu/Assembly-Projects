@@ -16,9 +16,9 @@ Assembly-language-projects readme.md
   <p align="center">
     A collection of assembly language projects — Including RISC (RISC-V) and CISC (IBM HLASM) ISAs.
     <br />
-    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/RISC-V"><strong>Explore RISC-V projects»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/RISC-V/README.md"><strong>Explore RISC-V projects»</strong></a>
     <br />
-    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/IBM%20HLASM"><strong>Explore HLASM projects»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/IBM%20HLASM/README.md"><strong>Explore HLASM projects»</strong></a>
   </p>
 </div>
 
