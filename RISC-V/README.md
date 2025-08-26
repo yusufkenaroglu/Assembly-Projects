@@ -13,9 +13,9 @@
   <p align="center">
     A collection of RISC-V Assembly projects.
     <br />
-    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/RISC-V"><strong>Explore Simulation Projects»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/RISC-V/Simulation/README.md"><strong>Explore Simulation Projects»</strong></a>
     <br />
-    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/RISC-V"><strong>Explore MCU Projects»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/Assembly-Projects/tree/main/RISC-V/MCU/README.md"><strong>Explore MCU Projects»</strong></a>
   </p>
 </div>
 
