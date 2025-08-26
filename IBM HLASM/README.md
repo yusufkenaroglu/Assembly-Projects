@@ -13,8 +13,9 @@
   <p align="center">
     A collection of IBM High Level Assembler projects.
     <br />
-    <a href="https://github.com/yusufkenaroglu/IBM-HLASM/README.md"><strong>Explore the WTO macro»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/IBM-HLASM"><strong>Explore the WTO macro»</strong></a>
     <br />
   </p>
 </div>
+
 
