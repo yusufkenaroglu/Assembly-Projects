@@ -56,8 +56,8 @@
 
 This repository contains a variety of **assembly language projects** in **RISC-V** .  
 
-- **Simulation:** Ready-to-assemble programs that run in RIPES Simulator.
-- **MCU:** Ready-to-assemble programs that require an Espressif ESP32-C6 microcontroller.
+- **Simulation:** Programs that run in RIPES Simulator.
+- **MCU:** Programs that run on the Espressif ESP32-C6 microcontroller.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
