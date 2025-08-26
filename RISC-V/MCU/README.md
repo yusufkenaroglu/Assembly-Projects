@@ -13,6 +13,7 @@
   <p align="center">
     A collection of RISC-V Assembly hardware projects.
     <br />
+    <a href="https://github.com/yusufkenaroglu/ESP32C6-Blink"><strong>Explore Blink»</strong></a>
   </p>
 </div>
 
