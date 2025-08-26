@@ -54,16 +54,12 @@
 <!-- IMAGES
 [![Assembly Screenshot][product-screenshot]](https://github.com/yusufkenaroglu/Assembly-Projects) -->
 
-This repository contains a variety of **assembly language projects** written for both **RISC-V** and **IBM High Level Assembler (HLASM)**.  
-It is compiled as a reference for low-level programming enthusiasts, showing practical applications of assembly programs across different architectures:
+This repository contains a variety of **assembly language projects** in **RISC-V** .  
 
-- **RISC-V:** Bare-metal routines, ESP32-C6 microcontroller projects, and hardware interfacing.
-- **IBM HLASM:** Mainframe programs assembler macros to explore structure and control flow.
-
-The purpose is educational: to provide clean, well-documented examples that help others learn, experiment, and build on top of these projects.
+- **Simulation:** Ready-to-assemble programs that run in RIPES Simulator.
+- **MCU:** Ready-to-assemble programs that require an Espressif ESP32-C6 microcontroller.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
@@ -71,7 +67,5 @@ The purpose is educational: to provide clean, well-documented examples that help
 * [RISC-V GNU Toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain)
 * [ESP-IDF (for ESP32 targets)](https://github.com/espressif/esp-idf)
 * [RIPES](https://github.com/mortbopet/Ripes) for simulation projects
-* [IBM High Level Assembler (HLASM)](https://www.ibm.com/docs/en/zos/2.4.0?topic=assemblers-high-level-assembler) on z/OS
-* [IBM Z Xplore](https://www.ibm.com/products/z/resources/zxplore) for explore IBM Z Servers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
