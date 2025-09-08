@@ -43,6 +43,6 @@ The purpose is educational: to provide clean, well-documented examples that help
 * [ESP-IDF (for ESP32 targets)](https://github.com/espressif/esp-idf)
 * [RIPES](https://github.com/mortbopet/Ripes) for simulation projects
 * [IBM High Level Assembler (HLASM)](https://www.ibm.com/docs/en/zos/2.4.0?topic=assemblers-high-level-assembler) on z/OS
-* [IBM Z Xplore](https://www.ibm.com/products/z/resources/zxplore) for explore IBM Z Servers
+* [IBM Z Xplore](https://www.ibm.com/products/z/resources/zxplore) for access to IBM Z Servers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
