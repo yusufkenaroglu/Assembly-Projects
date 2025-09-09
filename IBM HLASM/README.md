@@ -14,6 +14,7 @@
     A collection of IBM High Level Assembler projects.
     <br />
     <a href="https://github.com/yusufkenaroglu/IBM-HLASM-WTO"><strong>Explore the WTO macro»</strong></a>
+    <a href="https://github.com/yusufkenaroglu/IBM-HLASM-GET"><strong>Explore the GET macro»</strong></a>
     <br />
   </p>
 </div>
@@ -26,7 +27,8 @@
 
 This repository contains a variety of **assembly language projects** written in **IBM High Level Assembler (HLASM)**.  
 
-- **WTOPGM:** An IBM Assembler program that uses the WTO macro to print a string from program storage.
+- **WTOPGM:** An IBM Assembler program that uses the WTO macro to print a string from program storage to the operator.
+- **WTOGET:** An IBM Assembler program that uses OPEN, GET, and CLOSE macros to read from SYSIN, and write to SYSOUT.
 
 
 
@@ -36,3 +38,4 @@ This repository contains a variety of **assembly language projects** written in 
 * [IBM Z Xplore](https://www.ibm.com/products/z/resources/zxplore) for explore IBM Z Servers
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
